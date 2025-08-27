@@ -112,13 +112,13 @@
    - **Registration**: "Buy Now" on Offensive Security's website.  
    - **Course Overview**: OSWE validates mastery in white-box penetration testing, including secure code review, logic flaws, and custom exploit development. Candidates exploit real-world style web apps with full access to source code, requiring a mix of programming and offensive security skills.  
 
-2. **[eLearnSecurity Web Application Penetration Tester eXtreme (eWPTXv2)](https://www.ine.com/security/ewptxv2-certification.html)**  
+2. **[eLearnSecurity Web Application Penetration Tester eXtreme (eWPTX)](https://ine.com/security/certifications/ewptx-certification)**  
    - **Price:** **$500** (Exam voucher). Bundled with training.  
    - **Focus**: Advanced penetration testing of modern web applications and APIs.  
    - **Registration**: Purchase on the INE website.  
    - **Course Overview**: eWPTXv2 focuses on advanced exploitation techniques against modern web apps, including REST APIs, authentication bypass, advanced injection flaws, and encryption issues. The exam requires exploiting multiple applications and producing a professional-grade report.  
 
-3. **[Hack The Box Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/certifications/cbbh)**  
+3. **[Hack The Box Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter#:~:text=HTB%20Certified%20Bug%20Bounty%20Hunter%20%28HTB%20CBBH%29%20is,bug%20bounty%20hunting%20and%20web%20application%20pentesting%20skills.)**  
    - **Price:** **$210** (One-time exam attempt) or **$8/month** (Subscription with free attempt).  
    - **Focus**: Skills required for successful bug bounty hunting.  
    - **Registration**: Access through Hack The Box Academy.  
