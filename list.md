@@ -44,13 +44,13 @@
    - **Registration**: Purchase through EC-Council.  
    - **Course Overview**: CPENT covers advanced penetration testing scenarios, including testing in enterprise networks, OT/IoT environments, and cloud-based systems. The exam is conducted in a live cyber range with progressive challenges that assess advanced problem-solving and real-world offensive security skills.  
 
-5. **[Practical Network Penetration Tester (PNPT)](https://www.tcm-sec.com/pnpt/)**  
+5. **[Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/pnpt/)**  
    - **Price:** **$399**  
    - **Focus**: Practical exam focused on offensive security and Active Directory.  
    - **Registration**: Sign up and purchase on the TCM Security website.  
    - **Course Overview**: PNPT simulates a real penetration testing engagement, requiring enumeration, exploitation, and Active Directory attacks. Candidates must submit a full penetration testing report and present findings to a mock executive board, ensuring both technical and communication skills are validated.  
 
-6. **[Hack The Box Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/certifications/cpts)**  
+6. **[Hack The Box Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/)**  
    - **Price:** **$210** (One-time exam attempt) or **$8/month** (Subscription with free attempt).  
    - **Focus**: Comprehensive penetration testing across various domains.  
    - **Registration**: Access through Hack The Box Academy.  
@@ -66,13 +66,7 @@
    - **Registration**: "Buy Now" on Offensive Security's website.  
    - **Course Overview**: OSEP builds on OSCP-level knowledge, focusing on bypassing AV/EDR, privilege escalation, and advanced Active Directory exploitation. The exam challenges candidates with a realistic enterprise environment, requiring stealthy offensive techniques and red team tactics.  
 
-2. **[eLearnSecurity Certified Penetration Tester eXtreme (eCPTXv2)](https://www.ine.com/security/ecptx-certification.html)**  
-   - **Price:** **$700** (Exam voucher). Bundled with training.  
-   - **Focus**: Advanced penetration testing against complex enterprise networks.  
-   - **Registration**: Purchase on the INE website.  
-   - **Course Overview**: eCPTX covers advanced penetration testing with a focus on evasion, pivoting through hardened networks, and attacking Active Directory environments. Candidates demonstrate persistence techniques, red teaming tactics, and produce a detailed professional penetration testing report.  
-
-3. **[Offensive Security Certified Expert 3 (OSCE3)](https://www.offsec.com/certifications/osse3/)**  
+2. **[Offensive Security Certified Expert 3 (OSCE3)](https://www.offsec.com/certifications/osse3/)**  
    - **Price:** **N/A** (Achieved by earning OSCP, OSEP, and OSWE).  
    - **Focus**: Mastery of penetration testing across systems, networks, and web apps.  
    - **Registration**: Earn the three component certifications.  
