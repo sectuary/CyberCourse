@@ -66,7 +66,7 @@
    - **Registration**: "Buy Now" on Offensive Security's website.  
    - **Course Overview**: OSEP builds on OSCP-level knowledge, focusing on bypassing AV/EDR, privilege escalation, and advanced Active Directory exploitation. The exam challenges candidates with a realistic enterprise environment, requiring stealthy offensive techniques and red team tactics.  
 
-2. **[Offensive Security Certified Expert 3 (OSCE3)](https://www.offsec.com/certifications/osse3/)**  
+2. **[Offensive Security Certified Expert 3 (OSCE3)](https://www.offsec.com/certificates/osce3/)**  
    - **Price:** **N/A** (Achieved by earning OSCP, OSEP, and OSWE).  
    - **Focus**: Mastery of penetration testing across systems, networks, and web apps.  
    - **Registration**: Earn the three component certifications.  
@@ -96,17 +96,11 @@
    - **Registration**: Register through the GIAC portal.  
    - **Course Overview**: GWAPT validates advanced web application penetration testing skills, covering manual testing techniques, automated tools, and advanced exploitation methods. It emphasizes understanding of web technologies, secure coding practices, and comprehensive vulnerability assessment methodologies.  
 
-3. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://www.ine.com/security/ewpt-certification.html)**  
+3. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://ine.com/security/certifications/ewpt-certification)**  
    - **Price:** **$400** (Exam voucher). Bundled with training.  
    - **Focus**: Web app penetration testing, vulnerability analysis, and exploitation.  
    - **Registration**: Purchase on the INE website.  
    - **Course Overview**: eWPT provides hands-on experience in exploiting web applications, including XSS, SQL injection, authentication flaws, and session hijacking. The certification emphasizes manual testing methodologies and requires a professional penetration testing report.  
-
-4. **[Offensive Security Web Assessor (OSWA)](https://www.offsec.com/certifications/oswa/)**  
-   - **Price:** **$1,499** (Course + 1 exam attempt).  
-   - **Focus**: Foundational web application security assessments.  
-   - **Registration**: "Buy Now" on Offensive Security's website.  
-   - **Course Overview**: OSWA focuses on testing and exploiting web application vulnerabilities through hands-on labs and a practical exam. It teaches candidates to analyze source code, identify flaws, and perform assessments that mirror professional web application penetration tests.  
 
 ---
 
