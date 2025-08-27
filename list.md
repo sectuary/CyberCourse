@@ -27,7 +27,7 @@
    - **Course Overview**: GPEN validates advanced penetration testing methods, including password attacks, privilege escalation, and pivoting. It emphasizes exploitation of vulnerabilities, post-exploitation techniques, and thorough documentation/report writing, making it a recognized industry credential for network penetration testers.  
 
 2. **[Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/)**  
-   - **Price:** **$1,649** (Course + 1 exam attempt).  
+   - **Price:** **$1,749** (Course + 1 exam attempt).  
    - **Focus**: Hands-on penetration testing and exploitation in a controlled lab.  
    - **Registration**: "Buy Now" on Offensive Security's website.  
    - **Course Overview**: OSCP is a rigorous hands-on certification that challenges candidates to exploit real systems in a lab and produce a professional penetration testing report. It covers buffer overflows, privilege escalation, Active Directory attacks, and lateral movement, emphasizing persistence, creativity, and problem-solving under time constraints.  
