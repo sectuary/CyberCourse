@@ -124,7 +124,7 @@
    - **Focus**: Adversary emulation, security operations, defensive strategies.
    - **Registration/Sign-Up Info**: Visit the MITRE ATT&CK website for registration and details.
 
-2. **[Offensive Security Web Expert (OSWE)](https://www.offsec.com/courses/web-assessment/)**
+2. **[Offensive Security Web Expert (OSWE)](https://www.offsec.com/courses/web-300/)**
    - **Course Overview**: The OSWE course dives deep into web application security and penetration testing, emphasizing advanced techniques for web application exploitation.
    - **Focus**: Advanced web application penetration testing, complex exploitation techniques, and vulnerability discovery.
    - **Registration/Sign-Up Info**: The **"Enroll Now"** button takes you to the course registration page for OSWE.
