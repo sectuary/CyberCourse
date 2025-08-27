@@ -1,183 +1,134 @@
-# Cybersecurity Certifications
+# Cybersecurity Certifications Sorted by Skill Level
 
 ## Ethical Hacking & Penetration Testing
 
-1. **[Certified Ethical Hacker (CEH) Master](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)**
-   - **Level**: Intermediate  
-   - Description: CEH focuses on foundational ethical hacking skills. The **Master** certification is a more advanced, hands-on version of CEH.
+### **Beginner Level**
+
+1. **[eLearnSecurity Junior Penetration Tester (eJPT)](https://www.elearnsecurity.com/)**
+   - **Course Overview**: This beginner-level certification introduces fundamental penetration testing concepts. Learn about networking, security tools, and web application security.
+   - **Focus**: Basic penetration testing techniques, vulnerability identification, and tools for security testing.
+   - **Registration/Sign-Up Info**: Click **"Start Training"** to sign up for the course.
+
+2. **[Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)**
+   - **Course Overview**: This entry-level certification teaches ethical hacking techniques, including network scanning, web app vulnerabilities, and basic exploitation methods.
+   - **Focus**: Fundamental ethical hacking techniques, network security, and vulnerability assessment.
+   - **Registration/Sign-Up Info**: **"Enroll Now"** button for registration.
+
+### **Intermediate Level**
+
+1. **[GIAC Penetration Tester (GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/)**
+   - **Course Overview**: Focuses on assessing network security through penetration testing, including network exploitation, vulnerability management, and web application testing.
+   - **Focus**: Network security, vulnerability management, and exploitation techniques.
+   - **Registration/Sign-Up Info**: **"Register"** button for exam sign-up.
 
 2. **[Certified Ethical Hacker (CEH) Practical](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)**
-   - **Level**: Advanced  
-   - Description: A practical exam that tests real-world skills. It requires prior knowledge of hacking techniques.
+   - **Course Overview**: Practical exam where you demonstrate penetration testing skills in real-world environments, testing knowledge gained in the CEH course.
+   - **Focus**: Real-world application of ethical hacking techniques.
+   - **Registration/Sign-Up Info**: The **"Enroll Now"** button directs you to the registration page.
 
-3. **[Certified Network Pentester (CNPen)](https://www.elearnsecurity.com/)**
-   - **Level**: Advanced  
-   - Description: Focuses on network penetration testing, requiring deep technical knowledge.
+3. **[Certified AppSec Pentester (CAPen)](https://www.elearnsecurity.com/)**
+   - **Course Overview**: Focuses on securing web applications via penetration testing. Includes both automated and manual techniques for identifying vulnerabilities.
+   - **Focus**: Web application penetration testing, secure coding practices.
+   - **Registration/Sign-Up Info**: **"Enroll Now"** button for course registration.
 
-4. **[Certified Penetration Testing Professional (CPENT)](https://www.elearnsecurity.com/)**
-   - **Level**: Advanced  
-   - Description: An advanced, hands-on penetration testing certification.
+4. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://www.elearnsecurity.com/)**
+   - **Course Overview**: Aimed at intermediate learners, this course dives into the practical application of penetration testing techniques for web applications.
+   - **Focus**: Web application security, vulnerability analysis, exploitation techniques.
+   - **Registration/Sign-Up Info**: Click **"Enroll Now"** to register.
 
-5. **[CREST Registered Penetration Tester (CRT)](https://www.crest-approved.org/)**
-   - **Level**: Advanced  
-   - Description: CREST CRT is recognized globally and requires experience in penetration testing.
+### **Advanced Level**
 
-6. **[CREST Certified Infrastructure Tester (CCT INF)](https://www.crest-approved.org/)**
-   - **Level**: Advanced  
-   - Description: Focuses on infrastructure penetration testing, covering network and system vulnerabilities.
+1. **[Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-300/)**
+   - **Course Overview**: An intensive, hands-on course that prepares learners to exploit vulnerabilities, escalate privileges, and complete full penetration tests on live systems.
+   - **Focus**: Advanced penetration testing, exploitation techniques, vulnerability assessments.
+   - **Registration/Sign-Up Info**: **"Enroll Now"** button to sign up for PEN-300.
 
-7. **[eLearnSecurity Certified Professional Penetration Tester (eCPPT)](https://www.elearnsecurity.com/)**
-   - **Level**: Intermediate  
-   - Description: Provides practical, hands-on experience with penetration testing tools and methodologies.
+2. **[CREST Certified Penetration Tester (CRT)](https://www.crest-approved.org/)**
+   - **Course Overview**: A certification designed to meet industry standards for penetration testers. Focuses on the methodologies of vulnerability exploitation and the final reporting of findings.
+   - **Focus**: Penetration testing standards, vulnerability assessments, and reporting.
+   - **Registration/Sign-Up Info**: Apply through **"Join CREST"**.
 
-8. **[eLearnSecurity Junior Penetration Tester (eJPT)](https://www.elearnsecurity.com/)**
-   - **Level**: Beginner  
-   - Description: An entry-level certification with a focus on core penetration testing skills.
-
-9. **[GIAC Penetration Tester (GPEN)](https://www.giac.org/certifications/penetration-tester-gpen/)**
-   - **Level**: Intermediate  
-   - Description: Covers penetration testing methodology, tools, and techniques.
-
-10. **[Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/)**
-    - **Level**: Advanced  
-    - Description: A highly respected and challenging penetration testing certification. Requires real-world hands-on experience.
-
-11. **[Offensive Security Certified Professional Plus (OSCP+)](https://www.offensive-security.com/pwk-oscp/)**
-    - **Level**: Advanced  
-    - Description: Advanced hands-on exam for OSCP holders, requiring deeper technical and practical penetration testing knowledge.
-
-12. **[Offensive Security Experienced Penetration Tester (OSEP)](https://www.offensive-security.com/osep/)**
-    - **Level**: Advanced  
-    - Description: Focuses on advanced penetration testing strategies and evasion techniques.
+3. **[Offensive Security Experienced Penetration Tester (OSEP)](https://www.offsec.com/courses/pen-300/)**
+   - **Course Overview**: Focuses on advanced techniques for exploiting systems and bypassing security measures. It provides deeper knowledge of ethical hacking.
+   - **Focus**: Advanced penetration testing, attack scenarios, and security controls bypassing.
+   - **Registration/Sign-Up Info**: **"Enroll Now"** button for course registration.
 
 ---
 
 ## Web & Application Security
 
-1. **[Certified AppSec Pentester (CAPen)](https://www.elearnsecurity.com/)**
-   - **Level**: Advanced  
-   - Description: Advanced web application security testing and vulnerability exploitation.
+### **Beginner Level**
 
-2. **[Certified Web Application Penetration Tester (eWPT v1)](https://www.elearnsecurity.com/)**
-   - **Level**: Beginner  
-   - Description: An introductory certification for testing and securing web applications.
+1. **[Certified Web Application Penetration Tester (eWPT v1)](https://www.elearnsecurity.com/)**
+   - **Course Overview**: This entry-level certification focuses on testing and securing web applications by exploiting common vulnerabilities such as SQL injection and Cross-Site Scripting.
+   - **Focus**: Basic penetration testing techniques, vulnerability exploitation, web security.
+   - **Registration/Sign-Up Info**: Click **"Enroll Now"** to access registration.
 
-3. **[CREST Certified Web Application Tester (CCT APP)](https://www.crest-approved.org/)**
-   - **Level**: Advanced  
-   - Description: CREST certification focusing on web application testing and security.
+### **Intermediate Level**
 
-4. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://www.elearnsecurity.com/)**
-   - **Level**: Intermediate  
-   - Description: Covers both basic and intermediate skills for web application penetration testing.
+1. **[GIAC Web Application Penetration Tester (GWAPT)](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/)**
+   - **Course Overview**: This course covers in-depth web application security testing and teaches advanced techniques for identifying and exploiting vulnerabilities.
+   - **Focus**: Advanced web application penetration testing, security testing, and vulnerability identification.
+   - **Registration/Sign-Up Info**: The **"Register Now"** button leads to the registration page for the GWAPT exam.
 
-5. **[GIAC Web Application Penetration Tester (GWAPT)](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/)**
-   - **Level**: Intermediate  
-   - Description: A thorough, methodical approach to web app penetration testing.
+2. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://www.elearnsecurity.com/)**
+   - **Course Overview**: An intermediate certification that focuses on real-world penetration testing for web applications, with emphasis on vulnerability assessment, exploitation, and fixing security flaws.
+   - **Focus**: Vulnerability analysis, exploitation, and securing web apps.
+   - **Registration/Sign-Up Info**: Click **"Enroll Now"** to register.
 
-6. **[Offensive Security Web Assessor (OSWA)](https://www.offensive-security.com/web-assessment/)**
-   - **Level**: Advanced  
-   - Description: Advanced testing for web application security, leveraging Offensive Security’s techniques.
+### **Advanced Level**
 
-7. **[Offensive Security Web Expert (OSWE)](https://www.offensive-security.com/web-expert/)**
-   - **Level**: Advanced  
-   - Description: Expert-level penetration testing for web applications, involving advanced exploitation and evasion.
+1. **[CREST Certified Web Application Tester (CCT APP)](https://www.crest-approved.org/)**
+   - **Course Overview**: Designed for professionals looking to master web application penetration testing at the enterprise level, this certification delves into advanced web security topics and exploitation.
+   - **Focus**: Advanced penetration testing, web security, vulnerability assessments.
+   - **Registration/Sign-Up Info**: Apply through **"Join CREST"** for exam registration.
 
 ---
 
 ## Mobile & Cloud Security
 
+### **Beginner Level**
+
+1. **[eLearnSecurity Junior Penetration Tester (eJPT)](https://www.elearnsecurity.com/)**
+   - **Course Overview**: This beginner-level certification introduces fundamental penetration testing concepts. Learn about networking, security tools, and web application security.
+   - **Focus**: Basic penetration testing techniques, vulnerability identification, and tools for security testing.
+   - **Registration/Sign-Up Info**: Click **"Start Training"** to sign up for the course.
+
+### **Intermediate Level**
+
 1. **[Certified Mobile Pentester](https://www.elearnsecurity.com/)**
-   - **Level**: Intermediate  
-   - Description: Specializes in mobile application penetration testing and security.
+   - **Course Overview**: Focuses on mobile application security testing, covering both iOS and Android platforms. The course includes practical exercises on exploiting mobile vulnerabilities.
+   - **Focus**: Mobile application penetration testing, vulnerability identification, and exploitation.
+   - **Registration/Sign-Up Info**: The **"Enroll Now"** button will take you to the registration page for this course.
 
 2. **[GIAC Mobile Device Security Analyst (GMOB)](https://www.giac.org/certifications/mobile-device-security-analyst-gmob/)**
-   - **Level**: Intermediate  
-   - Description: Focuses on securing mobile devices and applications in enterprise environments.
+   - **Course Overview**: GMOB provides knowledge for assessing and securing mobile devices and applications. It covers mobile OS vulnerabilities, mobile app security, and exploits.
+   - **Focus**: Mobile security testing, securing mobile environments, vulnerability identification.
+   - **Registration/Sign-Up Info**: The **"Register Now"** button leads to the registration form for GMOB.
 
-3. **[Certified Kubernetes Security Specialist (CKS)](https://www.cncf.io/certification/cks/)**
-   - **Level**: Advanced  
-   - Description: Focuses on securing containerized environments using Kubernetes.
+### **Advanced Level**
 
-4. **[Certified Cloud Security Professional (CCSP)](https://www.isc2.org/certifications/CCSP)**
-   - **Level**: Advanced  
-   - Description: A globally recognized certification in cloud security, covering cloud architecture, governance, risk management, etc.
-
-5. **[CompTIA Cloud+](https://www.comptia.org/certifications/cloud)**
-   - **Level**: Intermediate  
-   - Description: Focuses on cloud infrastructure, security, and management.
-
-6. **[GIAC Cloud Penetration Tester (GCPN)](https://www.giac.org/certifications/cloud-penetration-tester-gcpn/)**
-   - **Level**: Advanced  
-   - Description: Focuses on testing cloud security, particularly in AWS, Azure, and GCP environments.
-
-7. **[AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
-    - **Level**: Intermediate  
-    - Description: A foundational certification for designing and deploying scalable systems on AWS.
-
-8. **[Google Cloud Certified Professional Cloud Security Engineer (PCSE)](https://cloud.google.com/certification/cloud-security-engineer)**
-    - **Level**: Advanced  
-    - Description: Focuses on securing Google Cloud environments and services.
+1. **[Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)**
+   - **Course Overview**: This certification focuses on cloud security, providing expertise in managing and securing cloud infrastructures, applications, and services.
+   - **Focus**: Cloud security management, risk mitigation, compliance.
+   - **Registration/Sign-Up Info**: The **"Get Started"** button directs you to the CCSP registration page.
 
 ---
 
-## Red Team & Incident Response
+## Miscellaneous Specializations
 
-1. **[Certified Red Team Professional (CRTP)](https://www.ine.com/)**
-   - **Level**: Advanced  
-   - Description: Focuses on red teaming and simulating cyber-attacks.
+### **Advanced Level**
 
-2. **[Certified Red Team Expert (CRTE)](https://www.ine.com/)**
-   - **Level**: Advanced  
-   - Description: Advanced red team skills, including penetration testing, exploitation, and evasion techniques.
+1. **[MITRE ATT&CK Adversary Emulation Methodology Certification](https://www.mitre.org/research/technical-areas/mitre-attck)**
+   - **Course Overview**: Focuses on the MITRE ATT&CK framework, training professionals to emulate real-world adversary tactics, techniques, and procedures in order to defend against them.
+   - **Focus**: Adversary emulation, security operations, defensive strategies.
+   - **Registration/Sign-Up Info**: Visit the MITRE ATT&CK website for registration and details.
 
-3. **[GIAC Red Team Professional (GRTP)](https://www.giac.org/certifications/red-team-professional-grtp/)**
-   - **Level**: Advanced  
-   - Description: An advanced certification for red team operators and penetration testers.
-
-4. **[Zero-Point Security Certified Red Team Operator (CRTO)](https://zero-point-security.com/)**
-   - **Level**: Advanced  
-   - Description: Advanced red team operator skills, focused on active defense simulations.
-
-5. **[eLearnSecurity Certified Penetration Tester eXtreme (eCPTX)](https://www.elearnsecurity.com/)**
-   - **Level**: Advanced  
-   - Description: Advanced penetration testing, overcoming sophisticated security defenses.
+2. **[Offensive Security Web Expert (OSWE)](https://www.offsec.com/courses/web-assessment/)**
+   - **Course Overview**: The OSWE course dives deep into web application security and penetration testing, emphasizing advanced techniques for web application exploitation.
+   - **Focus**: Advanced web application penetration testing, complex exploitation techniques, and vulnerability discovery.
+   - **Registration/Sign-Up Info**: The **"Enroll Now"** button takes you to the course registration page for OSWE.
 
 ---
 
-## Malware & Reverse Engineering
-
-1. **[eLearnSecurity Malware Analysis Professional (eCMAP)](https://www.elearnsecurity.com/)**
-   - **Level**: Advanced  
-   - Description: Focuses on analyzing and understanding malware techniques, reversing techniques, and exploits.
-
-2. **[GIAC Reverse Engineering Malware Certification (GREM)](https://www.giac.org/certifications/reverse-engineering-malware-grem/)**
-   - **Level**: Advanced  
-   - Description: Certification focused on reverse engineering malware to understand its behavior.
-
-3. **[Offensive Security MacOS Researcher (OSMR)](https://www.offensive-security.com/)**
-   - **Level**: Advanced  
-   - Description: Specializes in macOS security and vulnerability research.
-
----
-
-## Cloud Security
-
-1. **[AWS Red Team Specialist (CARTS)](https://aws.amazon.com/certification/)**
-   - **Level**: Advanced  
-   - Description: Specializes in red teaming AWS environments.
-
-2. **[Google Cloud Red Team Specialist (CGRTS)](https://cloud.google.com/certification/)**
-   - **Level**: Advanced  
-   - Description: Specializes in red teaming Google Cloud environments.
-
----
-
-## Miscellaneous Advanced Certifications
-
-1. **[MITRE ATT&CK Adversary Emulation Methodology](https://attack.mitre.org/)**
-   - **Level**: Advanced  
-   - Description: Covers adversary tactics, techniques, and procedures (TTPs) using the MITRE ATT&CK framework.
-
-2. **[Social Engineering Pentesting Professional (SEPP)](https://www.elearnsecurity.com/)**
-   - **Level**: Intermediate  
-   - Description: Focuses on social engineering techniques like phishing, baiting, and pretexting.
+This structure organizes each certification by domain and skill level, making it easier for you to explore based
