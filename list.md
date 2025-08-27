@@ -4,7 +4,7 @@
 
 ### **Beginner Level**
 
-1. **[eLearnSecurity Junior Penetration Tester (eJPT)](https://www.ine.com/security/ejpt-certification.html)**  
+1. **[eLearnSecurity Junior Penetration Tester (eJPT)](https://ine.com/security/certifications/ejpt-certification)**  
    - **Price:** **$199** (Exam voucher only). Often bundled with training.  
    - **Focus**: Foundational penetration testing, networking, and security tools.  
    - **Registration**: Purchase on the INE website.  
