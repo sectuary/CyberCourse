@@ -66,19 +66,13 @@
    - **Registration**: "Buy Now" on Offensive Security's website.  
    - **Course Overview**: OSEP builds on OSCP-level knowledge, focusing on bypassing AV/EDR, privilege escalation, and advanced Active Directory exploitation. The exam challenges candidates with a realistic enterprise environment, requiring stealthy offensive techniques and red team tactics.  
 
-2. **[Offensive Security Certified Expert (OSCE)](https://www.offsec.com/courses/pen-210/)**  
-   - **Price:** **$1,499** (Course + 1 exam attempt).  
-   - **Focus**: Advanced penetration testing and custom exploit development.  
-   - **Registration**: "Buy Now" on Offensive Security's website. (Note: Often considered a step between OSCP and OSCE3).  
-   - **Course Overview**: OSCE validates mastery of advanced exploitation and penetration testing. It includes custom exploit creation, web app bypass techniques, and advanced privilege escalation. The exam environment requires deep technical knowledge and adaptability under strict time limits.  
-
-3. **[eLearnSecurity Certified Penetration Tester eXtreme (eCPTXv2)](https://www.ine.com/security/ecptx-certification.html)**  
+2. **[eLearnSecurity Certified Penetration Tester eXtreme (eCPTXv2)](https://www.ine.com/security/ecptx-certification.html)**  
    - **Price:** **$700** (Exam voucher). Bundled with training.  
    - **Focus**: Advanced penetration testing against complex enterprise networks.  
    - **Registration**: Purchase on the INE website.  
    - **Course Overview**: eCPTX covers advanced penetration testing with a focus on evasion, pivoting through hardened networks, and attacking Active Directory environments. Candidates demonstrate persistence techniques, red teaming tactics, and produce a detailed professional penetration testing report.  
 
-4. **[Offensive Security Certified Expert 3 (OSCE3)](https://www.offsec.com/certifications/osse3/)**  
+3. **[Offensive Security Certified Expert 3 (OSCE3)](https://www.offsec.com/certifications/osse3/)**  
    - **Price:** **N/A** (Achieved by earning OSCP, OSEP, and OSWE).  
    - **Focus**: Mastery of penetration testing across systems, networks, and web apps.  
    - **Registration**: Earn the three component certifications.  
@@ -90,29 +84,29 @@
 
 ### **Beginner Level**
 
+---
+
+### **Intermediate Level**
+
 1. **[Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)**  
    - **Price:** **$99**  
    - **Focus**: Practical exam testing the ability to find and exploit web vulnerabilities using Burp Suite.  
    - **Registration**: Schedule through PortSwigger.  
    - **Course Overview**: This certification validates proficiency with Burp Suite and web app security testing fundamentals. It covers common vulnerabilities such as SQL injection, XSS, CSRF, and authentication flaws, requiring candidates to exploit issues within a controlled exam environment.  
 
----
-
-### **Intermediate Level**
-
-1. **[GIAC Web Application Penetration Tester (GWAPT)](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/)**  
+2. **[GIAC Web Application Penetration Tester (GWAPT)](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/)**  
    - **Price:** **$979** (Exam). SANS training is separate.  
    - **Focus**: In-depth web application security testing and exploitation.  
    - **Registration**: Register through the GIAC portal.  
    - **Course Overview**: This certification builds upon the basics, diving deeper into the security testing of web applications. It covers everything from security vulnerabilities to securing data flow and encryption in web applications.  
 
-2. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://www.ine.com/security/ewpt-certification.html)**  
+3. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://www.ine.com/security/ewpt-certification.html)**  
    - **Price:** **$400** (Exam voucher). Bundled with training.  
    - **Focus**: Web app penetration testing, vulnerability analysis, and exploitation.  
    - **Registration**: Purchase on the INE website.  
    - **Course Overview**: eWPT provides hands-on experience in exploiting web applications, including XSS, SQL injection, authentication flaws, and session hijacking. The certification emphasizes manual testing methodologies and requires a professional penetration testing report.  
 
-3. **[Offensive Security Web Assessor (OSWA)](https://www.offsec.com/certifications/oswa/)**  
+4. **[Offensive Security Web Assessor (OSWA)](https://www.offsec.com/certifications/oswa/)**  
    - **Price:** **$1,499** (Course + 1 exam attempt).  
    - **Focus**: Foundational web application security assessments.  
    - **Registration**: "Buy Now" on Offensive Security's website.  
