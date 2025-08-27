@@ -219,7 +219,7 @@
 
 ### **Intermediate Level**
 
-1. **[Altered Security Certified Red Team Professional (CRTP)](https://www.alteredsecurity.com/redteamtraining)**  
+1. **[Altered Security Certified Red Team Professional (CRTP)](https://www.alteredsecurity.com/post/certified-red-team-professional-crtp)**  
    - **Price:** **$499** (Training + Exam).  
    - **Focus**: Fundamentals of attacking and enumerating Active Directory.  
    - **Registration**: Purchase on the Altered Security website.  
@@ -239,19 +239,19 @@
 
 ### **Advanced Level**
 
-1. **[Altered Security Certified Red Team Expert (CRTE)](https://www.alteredsecurity.com/redteamtraining2)**  
+1. **[Altered Security Certified Red Team Expert (CRTE)](https://www.alteredsecurity.com/redteamlab)**  
    - **Price:** **$799** (Training + Exam).  
    - **Focus**: Advanced Active Directory attacks and domain persistence.  
    - **Registration**: Purchase on the Altered Security website.  
    - **Course Overview**: CRTE builds on CRTP foundations, covering advanced Active Directory attacks including forest trusts, cross-domain attacks, and sophisticated persistence mechanisms. It emphasizes evasion techniques and advanced PowerShell exploitation.
 
-2. **[Altered Security Certified Red Team Master (CRTM)](https://www.alteredsecurity.com/redteamtraining3)**  
+2. **[Altered Security Certified Red Team Master (CRTM)](https://www.alteredsecurity.com/gcb)**  
    - **Price:** **$1,199** (Training + Exam).  
    - **Focus**: Advanced red teaming, including AV/EDR evasion and lateral movement.  
    - **Registration**: Purchase on the Altered Security website.  
    - **Course Overview**: CRTM represents advanced red team mastery, covering sophisticated evasion techniques, custom tooling development, and complex multi-stage operations. It includes advanced C2 techniques, detection bypass, and enterprise-scale campaign management.
 
-3. **[Zero-Point Security Certified Red Team Lead (CRTO II)](https://training.zeropointsecurity.co.uk/courses/red-team-ops-2)**  
+3. **[Zero-Point Security Certified Red Team Lead (CRTO II)](https://training.zeropointsecurity.co.uk/courses/red-team-ops-II)**  
    - **Price:** **$799** (Training + Exam).  
    - **Focus**: Leading red team operations and advanced tradecraft.  
    - **Registration**: Purchase on the ZeroPoint Security website.  
@@ -263,7 +263,7 @@
 
 ### **Intermediate Level**
 
-1. **[GIAC Global Industrial Cyber Security Professional (GICSP)](https://www.giac.org/certifications/global-industrial-cybersecurity-professional-gicsp/)**  
+1. **[GIAC Global Industrial Cyber Security Professional (GICSP)](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp/)**  
    - **Price:** **$979** (Exam). SANS training is separate.  
    - **Focus**: Bridging IT and OT security.  
    - **Registration**: Register through the GIAC portal.  
