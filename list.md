@@ -10,7 +10,7 @@
    - **Registration**: Purchase on the INE website.  
    - **Course Overview**: This certification introduces penetration testing fundamentals, including TCP/IP networking, information gathering, scanning, and exploitation basics. It emphasizes practical use of security tools like Nmap, Metasploit, and Burp Suite. Ideal for beginners, it provides hands-on experience to build confidence in assessing vulnerabilities and conducting ethical hacking tasks.  
 
-2. **[Practical Junior Penetration Tester (PJPT)](https://www.tcm-sec.com/pjpt/)**  
+2. **[Practical Junior Penetration Tester (PJPT)](https://certifications.tcm-sec.com/pjpt/)**  
    - **Price:** **$199**  
    - **Focus**: Practical, hands-on introductory pentesting skills.  
    - **Registration**: Sign up and purchase on the TCM Security website.  
