@@ -129,14 +129,7 @@
 ## **Mobile Security**
 
 ### **Beginner Level**
-
-1. **[Practical Junior Mobile Tester (PJMT)](https://www.tcm-sec.com/pjmt/)**  
-   - **Price:** **$199**  
-   - **Focus**: Foundational mobile application penetration testing.  
-   - **Registration**: Sign up and purchase on the TCM Security website.  
-   - **Course Overview**: PJMT introduces the fundamentals of mobile application penetration testing, including Android/iOS app analysis, common vulnerabilities, and reverse engineering basics. It prepares students for real-world mobile app assessments.  
-
----
+*(No specific beginner-level mobile application security certifications listed - consider starting with general penetration testing foundations before specializing in mobile applications)*
 
 ### **Intermediate Level**
 
