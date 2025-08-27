@@ -32,7 +32,7 @@
    - **Registration**: "Buy Now" on Offensive Security's website.  
    - **Course Overview**: OSCP is a rigorous hands-on certification that challenges candidates to exploit real systems in a lab and produce a professional penetration testing report. It covers buffer overflows, privilege escalation, Active Directory attacks, and lateral movement, emphasizing persistence, creativity, and problem-solving under time constraints.  
 
-3. **[eLearnSecurity Certified Professional Penetration Tester (eCPPT)](https://www.ine.com/security/ecppt-certification.html)**  
+3. **[eLearnSecurity Certified Professional Penetration Tester (eCPPT)](https://ine.com/security/certifications/ecppt-certification)**  
    - **Price:** **$600** (Exam voucher). Bundled with training.  
    - **Focus**: Comprehensive penetration testing, including pivoting and writing reports.  
    - **Registration**: Purchase on the INE website.  
