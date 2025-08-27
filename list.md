@@ -54,7 +54,7 @@
    - **Price:** **$210** (One-time exam attempt) or **$8/month** (Subscription with free attempt).  
    - **Focus**: Comprehensive penetration testing across various domains.  
    - **Registration**: Access through Hack The Box Academy.  
-   - **Course Overview**: CPTS is a practical exam hosted on Hack The Box’s cyber range, testing candidates on real-world exploitation, lateral movement, and privilege escalation techniques. It emphasizes adaptability in offensive security and report writing, closely simulating professional penetration testing workflows.  
+   - **Course Overview**: CPTS is a practical exam hosted on Hack The Box's cyber range, testing candidates on real-world exploitation, lateral movement, and privilege escalation techniques. It emphasizes adaptability in offensive security and report writing, closely simulating professional penetration testing workflows.  
 
 ---
 
@@ -84,6 +84,8 @@
 
 ### **Beginner Level**
 
+*(No specific beginner-level web application security certifications listed - consider starting with general penetration testing foundations before specializing in web applications)*
+
 ---
 
 ### **Intermediate Level**
@@ -98,7 +100,7 @@
    - **Price:** **$979** (Exam). SANS training is separate.  
    - **Focus**: In-depth web application security testing and exploitation.  
    - **Registration**: Register through the GIAC portal.  
-   - **Course Overview**: This certification builds upon the basics, diving deeper into the security testing of web applications. It covers everything from security vulnerabilities to securing data flow and encryption in web applications.  
+   - **Course Overview**: GWAPT validates advanced web application penetration testing skills, covering manual testing techniques, automated tools, and advanced exploitation methods. It emphasizes understanding of web technologies, secure coding practices, and comprehensive vulnerability assessment methodologies.  
 
 3. **[eLearnSecurity Web Application Penetration Tester (eWPT)](https://www.ine.com/security/ewpt-certification.html)**  
    - **Price:** **$400** (Exam voucher). Bundled with training.  
@@ -178,13 +180,13 @@
    - **Price:** **$99**  
    - **Focus**: Foundational Azure cloud concepts.  
    - **Registration**: Schedule through Pearson VUE.  
-   - **Course Overview**: AZ-900 provides an introduction to Azure services, including security, compliance, and core cloud concepts. It is designed for beginners looking to validate cloud literacy with a focus on Microsoft’s ecosystem.  
+   - **Course Overview**: AZ-900 provides an introduction to Azure services, including security, compliance, and core cloud concepts. It is designed for beginners looking to validate cloud literacy with a focus on Microsoft's ecosystem.  
 
 3. **[Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/)**  
    - **Price:** **$99**  
    - **Focus**: Foundational Microsoft security and identity concepts.  
    - **Registration**: Schedule through Pearson VUE.  
-   - **Course Overview**: SC-900 validates foundational knowledge of Microsoft’s security, compliance, and identity solutions. It emphasizes Zero Trust principles, identity protection, and cloud security governance.  
+   - **Course Overview**: SC-900 validates foundational knowledge of Microsoft's security, compliance, and identity solutions. It emphasizes Zero Trust principles, identity protection, and cloud security governance.  
 
 4. **[Google Cloud Digital Leader](https://cloud.google.com/certification/cloud-digital-leader)**  
    - **Price:** **$99**  
@@ -224,10 +226,11 @@
 
 ### **Advanced / Specialty Level**
 
-1.  **[Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)**
-    - **Price:** **$395**
-    - **Focus**: Securing container-based applications and Kubernetes platforms.
-    - **Registration**: Schedule through the Linux Foundation/Pearson VUE.
+1. **[Certified Kubernetes Security Specialist (CKS)](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)**  
+   - **Price:** **$395**  
+   - **Focus**: Securing container-based applications and Kubernetes platforms.  
+   - **Registration**: Schedule through the Linux Foundation/Pearson VUE.  
+   - **Course Overview**: CKS validates advanced skills in securing Kubernetes clusters and containerized applications. It covers cluster hardening, supply chain security, monitoring, and runtime security. The exam is performance-based, requiring hands-on configuration of security controls in live Kubernetes environments.
 
 ---
 
@@ -235,37 +238,43 @@
 
 ### **Intermediate Level**
 
-1.  **[Altered Security Certified Red Team Professional (CRTP)](https://www.alteredsecurity.com/redteamtraining)**
-    - **Price:** **$499** (Training + Exam).
-    - **Focus**: Fundamentals of attacking and enumerating Active Directory.
-    - **Registration**: Purchase on the Altered Security website.
+1. **[Altered Security Certified Red Team Professional (CRTP)](https://www.alteredsecurity.com/redteamtraining)**  
+   - **Price:** **$499** (Training + Exam).  
+   - **Focus**: Fundamentals of attacking and enumerating Active Directory.  
+   - **Registration**: Purchase on the Altered Security website.  
+   - **Course Overview**: CRTP introduces red team fundamentals with a focus on Active Directory enumeration, privilege escalation, and lateral movement. It covers PowerShell-based attacks, domain reconnaissance, and basic persistence techniques in Windows environments.
 
-2.  **[Zero-Point Security Certified Red Team Operator (CRTO)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)**
-    - **Price:** **$499** (Training + Exam).
-    - **Focus**: Modern red teaming tradecraft using Cobalt Strike.
-    - **Registration**: Purchase on the ZeroPoint Security website.
+2. **[Zero-Point Security Certified Red Team Operator (CRTO)](https://training.zeropointsecurity.co.uk/courses/red-team-ops)**  
+   - **Price:** **$499** (Training + Exam).  
+   - **Focus**: Modern red teaming tradecraft using Cobalt Strike.  
+   - **Registration**: Purchase on the ZeroPoint Security website.  
+   - **Course Overview**: CRTO focuses on practical red team operations using Cobalt Strike, covering C2 infrastructure, payload deployment, lateral movement, and operational security. The exam simulates real-world adversary scenarios requiring stealth and persistence.
 
-3.  **[GIAC Red Team Professional (GRTP)](https://www.giac.org/certifications/red-team-professional-grtp/)**
-    - **Price:** **$979** (Exam). SANS training is separate.
-    - **Focus**: Foundational red teaming skills and methodologies.
-    - **Registration**: Register through the GIAC portal.
+3. **[GIAC Red Team Professional (GRTP)](https://www.giac.org/certifications/red-team-professional-grtp/)**  
+   - **Price:** **$979** (Exam). SANS training is separate.  
+   - **Focus**: Foundational red teaming skills and methodologies.  
+   - **Registration**: Register through the GIAC portal.  
+   - **Course Overview**: GRTP validates foundational red team knowledge, including threat modeling, adversary simulation, and attack frameworks. It covers MITRE ATT&CK mapping, social engineering, and coordinated multi-vector attacks in enterprise environments.
 
 ### **Advanced Level**
 
-1.  **[Altered Security Certified Red Team Expert (CRTE)](https://www.alteredsecurity.com/redteamtraining2)**
-    - **Price:** **$799** (Training + Exam).
-    - **Focus**: Advanced Active Directory attacks and domain persistence.
-    - **Registration**: Purchase on the Altered Security website.
+1. **[Altered Security Certified Red Team Expert (CRTE)](https://www.alteredsecurity.com/redteamtraining2)**  
+   - **Price:** **$799** (Training + Exam).  
+   - **Focus**: Advanced Active Directory attacks and domain persistence.  
+   - **Registration**: Purchase on the Altered Security website.  
+   - **Course Overview**: CRTE builds on CRTP foundations, covering advanced Active Directory attacks including forest trusts, cross-domain attacks, and sophisticated persistence mechanisms. It emphasizes evasion techniques and advanced PowerShell exploitation.
 
-2.  **[Altered Security Certified Red Team Master (CRTM)](https://www.alteredsecurity.com/redteamtraining3)**
-    - **Price:** **$1,199** (Training + Exam).
-    - **Focus**: Advanced red teaming, including AV/EDR evasion and lateral movement.
-    - **Registration**: Purchase on the Altered Security website.
+2. **[Altered Security Certified Red Team Master (CRTM)](https://www.alteredsecurity.com/redteamtraining3)**  
+   - **Price:** **$1,199** (Training + Exam).  
+   - **Focus**: Advanced red teaming, including AV/EDR evasion and lateral movement.  
+   - **Registration**: Purchase on the Altered Security website.  
+   - **Course Overview**: CRTM represents advanced red team mastery, covering sophisticated evasion techniques, custom tooling development, and complex multi-stage operations. It includes advanced C2 techniques, detection bypass, and enterprise-scale campaign management.
 
-3.  **[Zero-Point Security Certified Red Team Lead (CRTO II)](https://training.zeropointsecurity.co.uk/courses/red-team-ops-2)**
-    - **Price:** **$799** (Training + Exam).
-    - **Focus**: Leading red team operations and advanced tradecraft.
-    - **Registration**: Purchase on the ZeroPoint Security website.
+3. **[Zero-Point Security Certified Red Team Lead (CRTO II)](https://training.zeropointsecurity.co.uk/courses/red-team-ops-2)**  
+   - **Price:** **$799** (Training + Exam).  
+   - **Focus**: Leading red team operations and advanced tradecraft.  
+   - **Registration**: Purchase on the ZeroPoint Security website.  
+   - **Course Overview**: CRTO II focuses on advanced red team leadership, including operation planning, team coordination, and sophisticated attack chains. It covers advanced C2 techniques, custom payload development, and managing complex multi-target engagements.
 
 ---
 
@@ -273,10 +282,11 @@
 
 ### **Intermediate Level**
 
-1.  **[GIAC Global Industrial Cyber Security Professional (GICSP)](https://www.giac.org/certifications/global-industrial-cybersecurity-professional-gicsp/)**
-    - **Price:** **$979** (Exam). SANS training is separate.
-    - **Focus**: Bridging IT and OT security.
-    - **Registration**: Register through the GIAC portal.
+1. **[GIAC Global Industrial Cyber Security Professional (GICSP)](https://www.giac.org/certifications/global-industrial-cybersecurity-professional-gicsp/)**  
+   - **Price:** **$979** (Exam). SANS training is separate.  
+   - **Focus**: Bridging IT and OT security.  
+   - **Registration**: Register through the GIAC portal.  
+   - **Course Overview**: GICSP validates knowledge of industrial control systems security, including SCADA, DCS, and PLC environments. It covers OT network architecture, protocol analysis, risk assessment, and implementing security controls in critical infrastructure environments while maintaining operational integrity.
 
 ---
 
@@ -284,30 +294,109 @@
 
 ### **Intermediate Level**
 
-1.  **[Offensive Security Exploit Developer (OSED)](https://www.offsec.com/courses/exp-301/)**
-    - **Price:** **$1,499** (Course + 1 exam attempt).
-    - **Focus**: Windows-based user-mode exploit development.
-    - **Registration**: "Buy Now" on Offensive Security's website.
+1. **[Offensive Security Exploit Developer (OSED)](https://www.offsec.com/courses/exp-301/)**  
+   - **Price:** **$1,499** (Course + 1 exam attempt).  
+   - **Focus**: Windows-based user-mode exploit development.  
+   - **Registration**: "Buy Now" on Offensive Security's website.  
+   - **Course Overview**: OSED teaches Windows exploit development fundamentals, including stack-based buffer overflows, heap exploitation, and bypass techniques. The hands-on exam requires developing custom exploits against real applications, demonstrating mastery of exploitation primitives and modern protection bypasses.
 
 ### **Advanced Level**
 
-1.  **[GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)](https://www.giac.org/certifications/exploit-researcher-advanced-penetration-tester-gxpn/)**
-    - **Price:** **$979** (Exam). SANS training is separate.
-    - **Focus**: Advanced exploit development and penetration testing.
-    - **Registration**: Register through the GIAC portal.
+1. **[GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)](https://www.giac.org/certifications/exploit-researcher-advanced-penetration-tester-gxpn/)**  
+   - **Price:** **$979** (Exam). SANS training is separate.  
+   - **Focus**: Advanced exploit development and penetration testing.  
+   - **Registration**: Register through the GIAC portal.  
+   - **Course Overview**: GXPN validates advanced exploitation skills, including reverse engineering, custom exploit development, and sophisticated penetration testing techniques. It covers both Windows and Linux exploitation, advanced payload development, and research methodologies for discovering new attack vectors.
 
-2.  **[Offensive Security Exploitation Expert (OSEE)](https://www.offsec.com/courses/exp-401/)**
-    - **Price:** **$1,999** (Course + 1 exam attempt).
-    - **Focus**: Advanced Windows exploit development, including bypassing protections.
-    - **Registration**: "Buy Now" on Offensive Security's website.
+2. **[Offensive Security Exploitation Expert (OSEE)](https://www.offsec.com/courses/exp-401/)**  
+   - **Price:** **$1,999** (Course + 1 exam attempt).  
+   - **Focus**: Advanced Windows exploit development, including bypassing protections.  
+   - **Registration**: "Buy Now" on Offensive Security's website.  
+   - **Course Overview**: OSEE represents the pinnacle of exploit development expertise, covering advanced Windows exploitation including kernel-mode exploits, advanced mitigation bypasses, and sophisticated attack techniques. The exam challenges candidates with complex exploitation scenarios requiring deep technical expertise and creativity.
 
 ---
 
 ## **Defensive Security & Blue Team**
 
-### **Miscellaneous**
+### **Beginner Level**
 
-1.  **[MITRE ATT&CK® Adversary Emulation Methodology](https://attack.mitre.org/)**
-    - **Price:** **Free** (Framework).
-    - **Focus**: A knowledge base of adversary tactics and techniques for emulation and defense.
-    - **Registration**: Not a certification; a public framework.
+1. **[CompTIA Security+](https://www.comptia.org/certifications/security)**  
+   - **Price:** **$370**  
+   - **Focus**: Foundational cybersecurity concepts and defensive practices.  
+   - **Registration**: Schedule through Pearson VUE.  
+   - **Course Overview**: Security+ provides foundational knowledge in cybersecurity principles, including risk management, cryptography, network security, and incident response. It's often required for government positions and serves as an excellent entry point into cybersecurity careers.
+
+### **Intermediate Level**
+
+1. **[GIAC Security Essentials (GSEC)](https://www.giac.org/certifications/security-essentials-gsec/)**  
+   - **Price:** **$979** (Exam). SANS training is separate.  
+   - **Focus**: Broad-based cybersecurity knowledge and defensive techniques.  
+   - **Registration**: Register through the GIAC portal.  
+   - **Course Overview**: GSEC validates broad cybersecurity knowledge across domains including incident handling, network security, cryptography, and risk management. It's designed for security practitioners who need comprehensive understanding of defensive security concepts and practices.
+
+2. **[Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)**  
+   - **Price:** **$599**  
+   - **Focus**: Information security management and architecture.  
+   - **Registration**: Schedule through Pearson VUE.  
+   - **Course Overview**: CISSP is a globally recognized certification for experienced security professionals, covering eight security domains including security governance, risk management, and security architecture. It requires five years of experience and focuses on management-level security knowledge.
+
+3. **[GIAC Certified Incident Handler (GCIH)](https://www.giac.org/certifications/certified-incident-handler-gcih/)**  
+   - **Price:** **$979** (Exam). SANS training is separate.  
+   - **Focus**: Incident response and digital forensics.  
+   - **Registration**: Register through the GIAC portal.  
+   - **Course Overview**: GCIH validates incident response skills, including threat hunting, malware analysis, and forensic investigation. It covers the complete incident response lifecycle from detection through recovery, emphasizing hands-on analysis and containment techniques.
+
+### **Advanced Level**
+
+1. **[GIAC Certified Forensic Analyst (GCFA)](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/)**  
+   - **Price:** **$979** (Exam). SANS training is separate.  
+   - **Focus**: Advanced digital forensics and incident response.  
+   - **Registration**: Register through the GIAC portal.  
+   - **Course Overview**: GCFA validates advanced forensic analysis skills, including memory forensics, network forensics, and malware analysis. It covers complex investigation scenarios and advanced analysis techniques used in high-level incident response engagements.
+
+---
+
+## **Additional Resources & Frameworks**
+
+### **Free Resources**
+
+1. **[MITRE ATT&CK® Framework](https://attack.mitre.org/)**  
+   - **Price:** **Free** (Knowledge base/Framework).  
+   - **Focus**: A knowledge base of adversary tactics and techniques for emulation and defense.  
+   - **Registration**: Not a certification; a public framework.  
+   - **Resource Overview**: MITRE ATT&CK provides a comprehensive matrix of adversary tactics, techniques, and procedures (TTPs) based on real-world observations. It serves as a foundation for threat hunting, red teaming, and defensive strategy development across enterprise and mobile environments.
+
+2. **[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)**  
+   - **Price:** **Free** (Framework/Guidelines).  
+   - **Focus**: Cybersecurity risk management framework for organizations.  
+   - **Registration**: Not a certification; public framework.  
+   - **Resource Overview**: The NIST Cybersecurity Framework provides a structured approach to managing cybersecurity risk through five core functions: Identify, Protect, Detect, Respond, and Recover. It's widely adopted by organizations for developing comprehensive cybersecurity programs.
+
+---
+
+## **Certification Path Recommendations**
+
+### **For Beginners Starting in Cybersecurity:**
+1. CompTIA Security+ (Foundation)
+2. eJPT or PJPT (Hands-on introduction)
+3. Specialize based on interest (Web App, Cloud, etc.)
+
+### **For Penetration Testing Career Path:**
+1. eJPT → OSCP → OSEP/OSWE → OSCE3
+2. Alternative: PJPT → eCPPT → eCPTXv2
+
+### **For Cloud Security Specialization:**
+1. Cloud Fundamentals (AWS/Azure/GCP) → CCSP → Cloud-specific security certs
+2. For offensive: GCPN or cloud-focused penetration testing
+
+### **For Red Team Operations:**
+1. OSCP foundation → CRTP → CRTO → CRTE/CRTM
+2. Alternative: GPEN → GRTP → Advanced red team certs
+
+### **For Web Application Security:**
+1. eJPT foundation → eWPT → Burp Suite Certified → OSWE/eWPTXv2
+2. Bug bounty focus: CBBH pathway
+
+---
+
+*Note: Prices and course details may change. Always verify current pricing and prerequisites on official certification websites before registering.*
